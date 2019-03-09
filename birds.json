@@ -25,11 +25,6 @@
     "height": 275
   },
   {
-    "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/burly.jpg",
-    "width": 620,
-    "height": 370
-  },
-  {
     "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/cuckoo.jpg",
     "width": 1900,
     "height": 1496
@@ -38,6 +33,11 @@
     "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/kingfisher.jpg",
     "width": 960,
     "height": 639
+  },
+  {
+    "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/burly.jpg",
+    "width": 620,
+    "height": 370
   },
   {
     "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/cuckoo.jpg",
@@ -50,11 +50,6 @@
     "height": 449
   },
   {
-    "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/scarlet-tanager.jpg",
-    "width": 640,
-    "height": 426
-  },
-  {
     "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/House-sparrow.jpg",
     "width": 1600,
     "height": 1067 
@@ -63,6 +58,11 @@
     "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/animal-avian-beak.jpg",
     "width": 4167,
     "height": 2976
+  },
+  {
+    "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/scarlet-tanager.jpg",
+    "width": 640,
+    "height": 426
   },
   {
     "url": "https://raw.githubusercontent.com/shubham-thakare/sample-images/master/bird.jpg",
